@@ -1,4 +1,8 @@
 # Lan-Chat
+
+# Author
+- Name: Ahmed Waled Farouk
+- ID: 120210287
 # overview
 This a simple Lan Chat between hosted by **server** and **multiple** clients.
 
