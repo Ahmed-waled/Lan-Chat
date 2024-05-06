@@ -46,3 +46,9 @@ and That's it, very simple local chat to enable users talk to each other without
 ![image](https://github.com/Ahmed-waled/Lan-Chat/assets/103792966/6ce10c88-f388-48f0-b89d-280f07607e57)
 
 ## Working on different devices
+### secondary device screen
+![image](https://github.com/Ahmed-waled/Lan-Chat/assets/103792966/e1fe713d-2fd0-4bfd-a583-bfc9a79d35ff)
+
+### main device screen (acting as server and client)
+![WhatsApp Image 2024-05-07 at 00 54 27_21721337](https://github.com/Ahmed-waled/Lan-Chat/assets/103792966/ce357afc-9285-40ae-847d-2cc3b7128171)
+
